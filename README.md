@@ -1,8 +1,8 @@
 # Data analysis
-- Document here the project: olist
+- Document here the project: This is an EDA, decision science and machine learning prediction to improve the revenue of Brazilian e-commerce giant Olist
 - Description: Project Description
-- Data Source:
-- Type of analysis:
+- Data Source: public data source of Olist
+- Type of analysis: EDA, statistical inferences (decision science), machine learning
 
 Please document the project the better you can.
 
