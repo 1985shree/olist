@@ -1,6 +1,6 @@
 # Data analysis
 - Document here the project: This is an EDA, decision science and machine learning prediction to improve the revenue of Brazilian e-commerce giant Olist
-- Description: Check the notebook folder, currently the development is at the notebook stage. 
+- Description: Check the notebook folder, currently development is at the notebook stage. 
 - Data Source: public data source of Olist
 - Type of analysis: EDA, statistical inferences (decision science), machine learning
 
